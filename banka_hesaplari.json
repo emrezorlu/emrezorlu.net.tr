@@ -1,0 +1,18 @@
+{
+	"halkbankasi": {
+		"isim": "Halk Bankası",
+		"iban": "TR17 0001 2009 3540 0001 0221 57",
+		"sube":"354 ACIPAYAM / DENİZLİ ŞB.",
+		"hesapno":"01022157",
+		"isim":"Emre ZORLU",
+		"resim":"https://img.emrezorlu.com.tr/banka/halk.png",
+		"type": 0
+	},
+	"btc": {
+		"isim":"Bitcoin Cüzdanı",
+		"walletid":"1H1Mw55qxSVfQAEKHfbUdGDEC1VXhRc5zn",
+		"resim":"https://img.emrezorlu.com.tr/banka/btc.png",
+		"type": 1
+	}
+
+}
