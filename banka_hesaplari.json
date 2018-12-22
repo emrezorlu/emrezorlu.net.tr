@@ -7,12 +7,6 @@
 		"isim":"Emre ZORLU",
 		"resim":"https://img.emrezorlu.com.tr/banka/halk.png",
 		"type": 0
-	},
-	"btc": {
-		"isim":"Bitcoin Cüzdanı",
-		"walletid":"1H1Mw55qxSVfQAEKHfbUdGDEC1VXhRc5zn",
-		"resim":"https://img.emrezorlu.com.tr/banka/btc.png",
-		"type": 1
 	}
 
 }
