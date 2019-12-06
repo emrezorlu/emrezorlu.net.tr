@@ -7,6 +7,16 @@
 		"isim":"Emre ZORLU",
 		"resim":"https://img.emrezorlu.com.tr/banka/halk.png",
 		"type": 0
+	},
+	"blockchain": {
+		"cüzdan": ""
+	},
+	"papara": {
+		"cüzdan": ""
+	},
+	"enpara": {
+		"iban": ""
 	}
+
 
 }
