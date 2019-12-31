@@ -1,22 +1,25 @@
+
 {
-	"halkbankasi": {
-		"isim": "Halk Bankası",
-		"iban": "TR17 0001 2009 3540 0001 0221 57",
-		"sube":"354 ACIPAYAM / DENİZLİ ŞB.",
-		"hesapno":"01022157",
-		"isim":"Emre ZORLU",
-		"resim":"https://img.emrezorlu.com.tr/banka/halk.png",
-		"type": 0
-	},
-	"blockchain": {
-		"cüzdan": ""
-	},
-	"papara": {
-		"cüzdan": ""
-	},
-	"enpara": {
-		"iban": ""
-	}
-
-
+  "data": {
+    "Halk Bankası": {
+      "iban": "TR17 0001 2009 3540 0001 0221 57",
+      "sube": "354 ACIPAYAM / DENİZLİ ŞB.",
+      "hesap_no": "01022157",
+      "hesap_sahibi": "Emre ZORLU"
+    },
+    "Enpara": {
+      "iban": "TR24 0011 1000 0000 0090 8211 76",
+      "hesap_no": "90821176",
+      "sube": "03663",
+      "hesap_sahibi": "Emre ZORLU"
+    },
+    "Papara": {
+      "numara": "1111428386",
+      "hesap_sahibi": "Emre ZORLU"
+    },
+    "Blockchain": {
+      "cuzdan": "b038a66b-176a-4280-9db3-558cf786375e"
+    }
+  },
+  "true": 1
 }
